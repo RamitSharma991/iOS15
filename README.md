@@ -3,4 +3,4 @@
 Swift 5.5
 
 - Swift Collection Packages
-- Swift Collections
+- Swift Collections : Deque, OrderedSet
